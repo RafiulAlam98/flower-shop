@@ -1,0 +1,115 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    display: flex;
+    background-color: rgb(236, 230, 232);
+    justify-content: space-between;
+}
+
+.main-title {
+    font-size: 80px;
+    font-weight: bold;
+    margin-left: 220px;
+    margin-top: 220px;
+    margin-bottom: 40px;
+}
+
+.sub-title {
+    color: rgb(70, 68, 68);
+    margin-left: 220px;
+}
+
+.btn-prime {
+    border-radius: 8px;
+    background-color: palevioletred;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 40px;
+    margin-left: 220px;
+    margin-top: 40px;
+}
+
+.image-flower {
+    margin-top: 50px;
+    margin-right: 200px;
+}
+.second-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.second-description{
+    text-align: center;
+}
+.second-container{
+    display: flex;
+    justify-content: center;
+}
+.first-flower{
+    background-color: pink;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 50px;
+}
+.second-flower{
+    background-color: skyblue;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 50px;
+}
+.third-flower{
+    background-color: thistle;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 50px;
+}
+.icons{
+    padding: 100px;
+    background-color: rgb(245, 235, 215);
+    margin: 70px 300px;
+}
+.icons-portion{
+    display: flex;
+    justify-content: center;
+}
+.ic-1{
+    margin-right: 300px;
+}
+.ic-2{
+    margin-right: 300px;
+}
+
+.hot-deal{
+    padding: 100px;
+    background-color: rgb(245, 235, 215);
+    
+}
+.deal-part{
+   display: flex;
+   justify-content: space-between;
+}
+.sale-part{
+    
+    font-size: 25px;
+}
+
+.insta{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.instap{
+    text-align: center;
+}
+
+.aset-image{
+    display: flex;
+    justify-content: center;
+}
+.bg-img{
+    background-image: url();
+}
